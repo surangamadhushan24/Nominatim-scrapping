@@ -44,8 +44,6 @@ The output JSON file contains:
 ]
 ```
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Disclaimer
 This project is for educational purposes only. Be respectful when scraping public APIs and ensure compliance with their terms of service.
